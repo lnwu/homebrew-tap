@@ -1,6 +1,6 @@
 cask "polly" do
-  version "0.4.0"
-  sha256 "b6ec0f92646808125161199c1a0b1e5966db2f6279e31037deceb3c0702a9cea"
+  version "0.5.0"
+  sha256 "72aaa462427c375652e097c771031c6f43b3811706eb387f0cf69b341201e5fb"
 
   url "https://github.com/lnwu/ai-language-support/releases/download/v#{version}/Polly.zip"
   name "Polly"
